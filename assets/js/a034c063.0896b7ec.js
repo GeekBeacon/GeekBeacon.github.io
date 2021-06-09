@@ -1,0 +1,1 @@
+(self.webpackChunkgeekbeacon_docs=self.webpackChunkgeekbeacon_docs||[]).push([[760],{6353:function(e){"use strict";e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Docker Guide Part 1","permalink":"/blog/docker_guide"}]}')}}]);

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://geekbeacon.github.io/blog</id>
-    <title>Welcome to GeekBeacon Blog</title>
+    <title>Geek Beacon Documentation Site Blog</title>
     <updated>2020-05-18T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://geekbeacon.github.io/blog"/>
-    <subtitle>Welcome to GeekBeacon Blog</subtitle>
+    <subtitle>Geek Beacon Documentation Site Blog</subtitle>
     <icon>https://geekbeacon.github.io/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Docker Guide Part 1]]></title>
         <id>docker_guide</id>
         <link href="https://geekbeacon.github.io/blog/docker_guide"/>
         <updated>2020-05-18T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Docker]]></summary>
+        <summary type="html"><![CDATA[Preamble]]></summary>
     </entry>
 </feed>

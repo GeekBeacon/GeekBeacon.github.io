@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
     <channel>
-        <title>Welcome to GeekBeacon Blog</title>
+        <title>Geek Beacon Documentation Site Blog</title>
         <link>https://geekbeacon.github.io/blog</link>
-        <description>Welcome to GeekBeacon Blog</description>
+        <description>Geek Beacon Documentation Site Blog</description>
         <lastBuildDate>Mon, 18 May 2020 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
@@ -12,7 +12,7 @@
             <link>https://geekbeacon.github.io/blog/docker_guide</link>
             <guid>docker_guide</guid>
             <pubDate>Mon, 18 May 2020 00:00:00 GMT</pubDate>
-            <description><![CDATA[Docker]]></description>
+            <description><![CDATA[Preamble]]></description>
         </item>
     </channel>
 </rss>
