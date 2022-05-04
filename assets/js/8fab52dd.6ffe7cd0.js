@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkgeekbeacon_docs=self.webpackChunkgeekbeacon_docs||[]).push([[739],{7085:function(e){e.exports=JSON.parse('{"plugin":{"name":"docusaurus-theme-search-algolia","id":"default"}}')}}]);

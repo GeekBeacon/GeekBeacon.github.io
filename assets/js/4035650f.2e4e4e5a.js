@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgeekbeacon_docs=self.webpackChunkgeekbeacon_docs||[]).push([[260],{9438:function(e){e.exports=JSON.parse('{"label":"engineering","permalink":"/blog/tags/engineering","allTagsPath":"/blog/tags","count":1}')}}]);

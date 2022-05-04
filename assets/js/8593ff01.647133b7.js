@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkgeekbeacon_docs=self.webpackChunkgeekbeacon_docs||[]).push([[7],{9064:function(e){e.exports=JSON.parse('{"allTagsPath":"/blog/tags","name":"docker","count":1,"permalink":"/blog/tags/docker"}')}}]);
